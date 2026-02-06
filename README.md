@@ -1,3 +1,24 @@
 # tableau-projects
 the list of all the tableau projects 
-  1) GLOBAL SUPER STORE INSIGHT ANALYSIS 
+1) GLOBAL SUPER STORE INSIGHT ANALYSIS 
+Turning Data into Decisions with Tableau
+Excited to share an interactive executive dashboard built using Tableau as part of a Global Superstore case study.
+
+Business Problem Addressed
+
+The CEO of a global retail organization needed timely, data-driven insights to:
+Improve profitability
+Identify loss-making regions and products
+Evaluate the impact of discounts
+Forecast future sales for better planning
+
+What the Dashboard Delivers
+
+Sales and profit trends over time
+Region- and market-wise Sales analysisS
+Identification of loss-making sub-categories
+Discount vs profit analysis
+6-month sales forecast to support strategic decisions
+
+link 
+https://public.tableau.com/views/GlobalSuperstoreInsightsAnalysis_17686578025750/GlobalSuperstoreInsightsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
