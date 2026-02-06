@@ -4,7 +4,7 @@ the list of all the tableau projects
 Turning Data into Decisions with Tableau
 Excited to share an interactive executive dashboard built using Tableau as part of a Global Superstore case study.
 
-Business Problem Addressed
+2) Business Problem Addressed
 
 The CEO of a global retail organization needed timely, data-driven insights to:
 Improve profitability
@@ -12,7 +12,7 @@ Identify loss-making regions and products
 Evaluate the impact of discounts
 Forecast future sales for better planning
 
-What the Dashboard Delivers
+3) What the Dashboard Delivers
 
 Sales and profit trends over time
 Region- and market-wise Sales analysisS
